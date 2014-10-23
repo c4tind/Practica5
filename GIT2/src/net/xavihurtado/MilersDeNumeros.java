@@ -7,7 +7,7 @@ public class MilersDeNumeros {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int busco = 457343;
+		int busco = 454343;
 		int aux = 0;
 		boolean trobat = false;
 		int[] numeros = new int[500000];
